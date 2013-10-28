@@ -1,0 +1,12 @@
+D:\epam\Shop\Shop\bin\Debug\Shop.exe.config
+D:\epam\Shop\Shop\bin\Debug\Shop.exe
+D:\epam\Shop\Shop\bin\Debug\Shop.pdb
+D:\epam\Shop\Shop\bin\Debug\EntityFramework.dll
+D:\epam\Shop\Shop\bin\Debug\EntityFramework.SqlServer.dll
+D:\epam\Shop\Shop\bin\Debug\nunit.framework.dll
+D:\epam\Shop\Shop\bin\Debug\EntityFramework.xml
+D:\epam\Shop\Shop\bin\Debug\EntityFramework.SqlServer.xml
+D:\epam\Shop\Shop\bin\Debug\nunit.framework.xml
+D:\epam\Shop\Shop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\epam\Shop\Shop\obj\x86\Debug\Shop.exe
+D:\epam\Shop\Shop\obj\x86\Debug\Shop.pdb

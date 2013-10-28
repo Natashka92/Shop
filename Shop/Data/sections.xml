@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<categories>
+  <category id="1133722">Бытовая техника</category>
+  <category id="1162418" parentId="1133722">Крупная бытовая техника</category>
+  <category id="1162422" parentId="1162418">Холодильники и морозильники</category>
+  <category id="1162419" parentId="1162418">Вытяжки</category>
+  <category id="1162482" parentId="1162418">Стиральные машины</category>
+  <category id="1155471" parentId="1133722">Техника для дома</category>
+  <category id="1133745" parentId="1155471">Светильники</category>
+  <category id="1133738" parentId="1155471">Утюги</category>
+  <category id="1135627" parentId="1155471">Бытовые аксессуары</category>
+  <category id="1133747" parentId="1155471">Напольные весы</category>
+  <category id="1133772" parentId="1155471">Радио-будильники, проекционные часы</category>
+  <category id="1160628" parentId="1133722">Безопасность и наблюдение</category>
+  <category id="1160653" parentId="1160628">Системы видеонаблюдения</category>
+  <category id="1160649" parentId="1160628">Домофоны</category>
+  <category id="1163006" parentId="1160628">Камеры видеонаблюдения</category>
+  <category id="1160652" parentId="1160628">Охранное оборудование для дома и дачи</category>
+  <category id="1133861" parentId="1155471">Швейные машины</category>
+  <category id="1162514" parentId="1155471">Отпариватели для одежды</category>
+  <category id="1135617" parentId="1155471">Паровые станции</category>
+  <category id="1162654" parentId="1155471">Пароочистители</category>
+  <category id="1155470" parentId="1133722">Техника для кухни</category>
+  <category id="1133740" parentId="1155470">Чайники</category>
+  <category id="1133732" parentId="1155470">Блендеры и миксеры</category>
+  <category id="1133733" parentId="1155470">СВЧ-печи</category>
+  <category id="1133731" parentId="1155470">Кофеварки и кофемолки</category>
+  <category id="1155768" parentId="1155470">Кофеварки капельные</category>
+  <category id="1135618" parentId="1155470">Кофемашины</category>
+  <category id="1155769" parentId="1155470">Кофемолки</category>
+  <category id="1155767" parentId="1155470">Кофеварки рожковые</category>
+  <category id="1155517" parentId="1155470">Кофеварки капсульные</category>
+  <category id="1133730" parentId="1155470">Комбайны, мясорубки</category>
+  <category id="1135615" parentId="1155470">Мультиварки</category>
+  <category id="1133743" parentId="1155470">Пароварки и аэрогрили</category>
+  <category id="1135628" parentId="1155470">Духовки, грили, плиты</category>
+  <category id="1133735" parentId="1155470">Соковыжималки</category>
+  <category id="1133742" parentId="1155470">Тостеры, бутербродницы</category>
+  <category id="1154987" parentId="1155470">Рабочие поверхности</category>
+  <category id="1133724" parentId="1155470">Кухонные весы</category>
+  <category id="1135616" parentId="1155470">Хлебопечки</category>
+  <category id="1135626" parentId="1155470">Прочая техника</category>
+  <category id="1151384" parentId="1155470">Блинницы, вафельницы</category>
+  <category id="1165627" parentId="1155470">Техника для вечеринок</category>
+  <category id="1151385" parentId="1155470">Йогуртницы</category>
+  <category id="1151383" parentId="1155470">Фритюрницы</category>
+  <category id="1155472">Электроинструмент</category>
+  <category id="1155525" parentId="1155472">Шлифовальные машинки</category>
+  <category id="1155830" parentId="1155525">Угловые</category>
+  <category id="1155829" parentId="1155525">Ленточные</category>
+  <category id="1155828" parentId="1155525">Вибрационные</category>
+  <category id="1155831" parentId="1155525">Эксцентриковые</category>
+  <category id="1135619" parentId="1155472">Садовая техника</category>
+  <category id="1155838" parentId="1135619">Насосы</category>
+  <category id="1155836" parentId="1135619">Триммеры для газона</category>
+  <category id="1155834" parentId="1135619">Газонокосилки</category>
+  <category id="1164423" parentId="1135619">Минимойки</category>
+  <category id="1155837" parentId="1135619">Электросекаторы</category>
+  <category id="1155835" parentId="1135619">Садовые измельчители</category>
+  <category id="1155526" parentId="1155472">Шуруповерты</category>
+  <category id="1135620" parentId="1155472">Оснастка</category>
+  <category id="1155521" parentId="1155472">Прочий инструмент</category>
+  <category id="1155513" parentId="1155472">Электродрели</category>
+  <category id="1155519" parentId="1155472">Электропилы</category>
+  <category id="1155518" parentId="1155472">Перфораторы</category>
+  <category id="1155514" parentId="1155472">Силовая техника</category>
+  <category id="1165445" parentId="1155514">Сварочное оборудование</category>
+  <category id="1165443" parentId="1155514">Генераторы</category>
+  <category id="1155527" parentId="1155472">Электролобзики</category>
+  <category id="1135621" parentId="1155472">Измерительная техника</category>
+  <category id="1133773" parentId="1155472">Электроинструмент</category>
+  <category id="1155522" parentId="1155472">Строительные фены</category>
+  <category id="1155528" parentId="1155472">Электрорубанки</category>
+  <category id="1155524" parentId="1155472">Фрезеры</category>
+  <category id="1155516" parentId="1155472">Компрессоры</category>
+  <category id="1155523" parentId="1155472">Ударные гайковерты</category>
+  <category id="1155473" parentId="1133722">Красота и здоровье</category>
+  <category id="1133736" parentId="1155473">Стайлеры, щипцы для волос</category>
+  <category id="1133746" parentId="1155473">Медицинская техника</category>
+  <category id="1133739" parentId="1155473">Фены</category>
+  <category id="1133737" parentId="1155473">Триммеры, машинки для стрижки</category>
+  <category id="1133723" parentId="1155473">Бритвы</category>
+  <category id="1133741" parentId="1155473">Эпиляторы</category>
+  <category id="1133725" parentId="1155473">Зубные щетки</category>
+  <category id="1158303" parentId="1155473">Электроодеяло, электропростынь</category>
+  <category id="1155474" parentId="1133722">Часы, погодные станции</category>
+  <category id="1133831" parentId="1155474">Наручные часы</category>
+  <category id="1133744" parentId="1155474">Погодные станции</category>
+  <category id="1133830" parentId="1155474">Будильники</category>
+  <category id="1155469" parentId="1133722">Пылесосы и климат</category>
+  <category id="1133734" parentId="1155469">Пылесосы</category>
+  <category id="1133727" parentId="1155469">Обогреватели</category>
+  <category id="1133728" parentId="1155469">Увлажнители</category>
+  <category id="1133729" parentId="1155469">Вентиляторы</category>
+  <category id="1135622" parentId="1155469">Кондиционирование</category>
+  <category id="1153958" parentId="1155469">Водонагреватели</category>
+  <category id="1162507" parentId="1155469">Мойки воздуха</category>
+  <category id="1133726" parentId="1155469">Климатическая техника</category>
+  <category id="1133680">Компьютеры и периферия</category>
+  <category id="1133693" parentId="1133680">Клавиатуры, мыши, джойстики и рули</category>
+  <category id="1133695" parentId="1133693">Компьютерные мыши</category>
+  <category id="1133699" parentId="1133693">Геймпады и игровые манипуляторы</category>
+  <category id="1133694" parentId="1133693">Клавиатуры</category>
+  <category id="1133696" parentId="1133693">Комплекты: клавиатура и мышь</category>
+  <category id="1135599" parentId="1133693">Коврики для мыши</category>
+  <category id="1133697" parentId="1133693">Игровые рули</category>
+  <category id="1133698" parentId="1133693">Джойстики</category>
+  <category id="1133715" parentId="1133680">Сумки, чехлы и рюкзаки для ноутбуков</category>
+  <category id="1133702" parentId="1133680">Колонки для компьютера</category>
+  <category id="1133705" parentId="1133680">Гарнитуры (наушники с микрофоном)</category>
+  <category id="1133706" parentId="1133680">Компьютерные аксессуары</category>
+  <category id="1133712" parentId="1133706">Кабели и переходники</category>
+  <category id="1133708" parentId="1133706">Сетевые фильтры</category>
+  <category id="1133713" parentId="1133706">Универсальные зарядные устройства</category>
+  <category id="1133709" parentId="1133706">Чистящие средства для компьютеров</category>
+  <category id="1136841" parentId="1133706">UPS (источники бесперебойного питания)</category>
+  <category id="1147487" parentId="1133706">ТВ-тюнеры</category>
+  <category id="1133707" parentId="1133706">USB-хабы (разветвители)</category>
+  <category id="1133685" parentId="1133680">Носители информации</category>
+  <category id="1133819" parentId="1133680">Аксессуары для планшетов</category>
+  <category id="1133684" parentId="1133680">Расходные материалы</category>
+  <category id="1133688" parentId="1133680">Сетевое оборудование</category>
+  <category id="1135609" parentId="1133688">Коммутаторы</category>
+  <category id="1133690" parentId="1133688">Маршрутизаторы</category>
+  <category id="1135608" parentId="1133688">WiFi оборудование</category>
+  <category id="1133691" parentId="1133688">Сетевые карты и адаптеры</category>
+  <category id="1133689" parentId="1133688">Модемы</category>
+  <category id="1133692" parentId="1133688">ADSL модемы</category>
+  <category id="1135601" parentId="1133680">Аксессуары  для ноутбуков</category>
+  <category id="1133686" parentId="1133680">Внешние жесткие диски</category>
+  <category id="1133700" parentId="1133680">Веб-камеры</category>
+  <category id="1133818" parentId="1133680">Планшетный компьютер</category>
+  <category id="1135612" parentId="1133680">Калькуляторы</category>
+  <category id="1133687" parentId="1133680">Настольные компьютеры и моноблоки</category>
+  <category id="1133710" parentId="1133680">Комплектующие для компьютера</category>
+  <category id="1133851" parentId="1133710">Материнские платы</category>
+  <category id="1133857" parentId="1133710">Звуковые карты</category>
+  <category id="1133850" parentId="1133710">Видеокарты</category>
+  <category id="1133853" parentId="1133710">Жесткие диски</category>
+  <category id="1133855" parentId="1133710">Блоки питания для компьютеров</category>
+  <category id="1141822" parentId="1133680">Офисная техника</category>
+  <category id="1133683" parentId="1133680">Принтеры и МФУ</category>
+  <category id="1133718" parentId="1133680">Очки для компьютера и 3D очки</category>
+  <category id="1133714" parentId="1133680">Графические планшеты и калибраторы монитора</category>
+  <category id="1133682" parentId="1133680">Мониторы</category>
+  <category id="1135598" parentId="1133680">Сканеры и копиры</category>
+  <category id="1133762">Аудио-видео техника</category>
+  <category id="1133859" parentId="1133762">Наушники</category>
+  <category id="1164174" parentId="1133762">HiFi</category>
+  <category id="1151363" parentId="1164174">Акустические системы</category>
+  <category id="1133766" parentId="1164174">Ресиверы и Усилители</category>
+  <category id="1133863" parentId="1164174">Проекторы</category>
+  <category id="1154964" parentId="1164174">Проигрыватели виниловых дисков</category>
+  <category id="1133764" parentId="1164174">CD проигрыватели</category>
+  <category id="1167391" parentId="1164174">Цифро-аналоговые преобразователи</category>
+  <category id="1133763" parentId="1133762">Телевизоры</category>
+  <category id="1133765" parentId="1133762">Магнитолы и микросистемы</category>
+  <category id="1133860" parentId="1133762">Кабели и аксессуары</category>
+  <category id="1133771" parentId="1133762">MP3-плееры</category>
+  <category id="1136840" parentId="1133762">Музыкальные инструменты</category>
+  <category id="1167403" parentId="1136840">Аксессуары для музыкальных инструментов</category>
+  <category id="1133767" parentId="1133762">DVD, Blu-Ray, медиаплееры</category>
+  <category id="1133768" parentId="1133762">Домашние кинотеатры</category>
+  <category id="1135522" parentId="1133762">Микрофоны</category>
+  <category id="1133770" parentId="1133762">Диктофоны</category>
+  <category id="1133769" parentId="1133762">Универсальные пульты управления</category>
+  <category id="1151500" parentId="1133762">Спутниковое и эфирное ТВ</category>
+  <category id="1155170" parentId="1133762">Портативные телевизоры</category>
+  <category id="1133676">Телефоны</category>
+  <category id="1133677" parentId="1133676">Мобильные телефоны</category>
+  <category id="1133775" parentId="1133676">Аксессуары к телефонам</category>
+  <category id="1133827" parentId="1133775">Чехлы /Сумки</category>
+  <category id="1133824" parentId="1133775">Защитные плёнки</category>
+  <category id="1135604" parentId="1133775">Гаджет</category>
+  <category id="1133821" parentId="1133775">Проводные гарнитуры</category>
+  <category id="1133820" parentId="1133775">Bluetooth гарнитуры</category>
+  <category id="1135602" parentId="1133775">Аксессуар</category>
+  <category id="1135603" parentId="1133775">Док-станция</category>
+  <category id="1133823" parentId="1133775">Сетевые зарядные устройства</category>
+  <category id="1133822" parentId="1133775">Автомобильные зарядные устройства</category>
+  <category id="1133826" parentId="1133775">Держатели</category>
+  <category id="1135606" parentId="1133775">Аккумуляторы</category>
+  <category id="1133825" parentId="1133775">Стилусы</category>
+  <category id="1133828" parentId="1133775">Устройства передачи данных</category>
+  <category id="1133679" parentId="1133676">Радиотелефоны DECT</category>
+  <category id="1135600" parentId="1133676">SIM -карты</category>
+  <category id="1164645" parentId="1133676">Карты памяти</category>
+  <category id="1133748">Фото и видео</category>
+  <category id="1133753" parentId="1133748">Аксессуары</category>
+  <category id="1133755" parentId="1133753">Сумки</category>
+  <category id="1133756" parentId="1133753">Штативы</category>
+  <category id="1146041" parentId="1133753">Фотоаксессуары</category>
+  <category id="1133862" parentId="1133753">Фильтры</category>
+  <category id="1133757" parentId="1133753">Объективы</category>
+  <category id="1133754" parentId="1133753">Вспышки</category>
+  <category id="1135633" parentId="1133753">Аккумуляторы и ЗУ</category>
+  <category id="1133750" parentId="1133748">Оптические приборы</category>
+  <category id="1133761" parentId="1133750">Телескопы</category>
+  <category id="1133759" parentId="1133750">Бинокли</category>
+  <category id="1133760" parentId="1133750">Микроскопы</category>
+  <category id="1133751" parentId="1133748">Компакт фотокамеры</category>
+  <category id="1160831" parentId="1133748">Карты памяти</category>
+  <category id="1133752" parentId="1133748">Видеокамеры</category>
+  <category id="1133758" parentId="1133748">Цифровые фоторамки</category>
+  <category id="1133749" parentId="1133748">Зеркальные фотокамеры</category>
+  <category id="1147543">Игровые приставки</category>
+  <category id="1147567" parentId="1147543">Аксессуары</category>
+  <category id="1147570" parentId="1147567">Защита и хранение</category>
+  <category id="1147574" parentId="1147567">Комплект аксессуаров</category>
+  <category id="1147575" parentId="1147567">Наушники и гарнитуры</category>
+  <category id="1147568" parentId="1147567">Кабели и адаптеры</category>
+  <category id="1147577" parentId="1147567">Зарядки</category>
+  <category id="1147566" parentId="1147567">Контроллеры и пульты</category>
+  <category id="1147572" parentId="1147567">Карта памяти</category>
+  <category id="1147569" parentId="1147567">Аккумуляторы</category>
+  <category id="1148151" parentId="1147543">Игровые консоли</category>
+  <category id="1133814">GPS навигаторы и автоаксессуары</category>
+  <category id="1133842" parentId="1133814">Видеорегистраторы</category>
+  <category id="1145930" parentId="1133814">Автомобильная акустика</category>
+  <category id="1135613" parentId="1133814">Автомагнитолы</category>
+  <category id="1133836" parentId="1133814">Радар-детекторы</category>
+  <category id="1133817" parentId="1133814">Автомобильные аксессуары</category>
+  <category id="1133840" parentId="1133817">Парктроники</category>
+  <category id="1161826" parentId="1133817">Автомобильное освещение</category>
+  <category id="1133843" parentId="1133817">FM-модуляторы</category>
+  <category id="1133837" parentId="1133817">Громкая связь</category>
+  <category id="1133834" parentId="1133817">Зарядные устройства</category>
+  <category id="1133844" parentId="1133817">Алкотестеры</category>
+  <category id="1135614" parentId="1133814">Туристические GPS-навигаторы</category>
+  <category id="1133815" parentId="1133814">GPS автонавигаторы</category>
+  <category id="1136839" parentId="1133814">Радиостанции</category>
+  <category id="1133681">Ноутбуки</category>
+  <category id="1156814" parentId="1133681">Ноутбуки</category>
+  <category id="1154114" parentId="1133681">Ультрабуки</category>
+  <category id="1133717">Электронные книги</category>
+  <category id="1154869">Apple</category>
+  <category id="1157325">Hi-Fi, Hi-End</category>
+  <category id="1157330" parentId="1157325">Hi-Fi минисистемы и бумбоксы</category>
+  <category id="1157365" parentId="1157330">Hi-Fi минисистема</category>
+  <category id="1157366" parentId="1157330">Hi-Fi минисистема для iPod/iPhone</category>
+  <category id="1157367" parentId="1157330">Бумбокс</category>
+  <category id="1157332" parentId="1157325">Аксессуары</category>
+  <category id="1157381" parentId="1157332">HDMI коммутатор</category>
+  <category id="1157382" parentId="1157332">HDMI процессор</category>
+  <category id="1157383" parentId="1157332">HDMI сплиттер</category>
+  <category id="1157384" parentId="1157332">HDMI удлинитель</category>
+  <category id="1157386" parentId="1157332">Блок питания</category>
+  <category id="1157388" parentId="1157332">Гриль акустический</category>
+  <category id="1157389" parentId="1157332">Держатель для предохранителя</category>
+  <category id="1157390" parentId="1157332">Док-станция для iPod</category>
+  <category id="1157391" parentId="1157332">Защитная пленка</category>
+  <category id="1157393" parentId="1157332">ИК адаптер</category>
+  <category id="1157394" parentId="1157332">ИК передатчик</category>
+  <category id="1157395" parentId="1157332">ИК приёмник</category>
+  <category id="1157396" parentId="1157332">Кабельный канал</category>
+  <category id="1157397" parentId="1157332">Калибровочный комплект</category>
+  <category id="1157398" parentId="1157332">Кейс</category>
+  <category id="1157402" parentId="1157332">Панель для акустической обработки</category>
+  <category id="1157405" parentId="1157332">Рюкзак</category>
+  <category id="1157406" parentId="1157332">Сумка</category>
+  <category id="1157407" parentId="1157332">Топпер</category>
+  <category id="1157408" parentId="1157332">Универсальный пульт д/у</category>
+  <category id="1157409" parentId="1157332">Чехол</category>
+  <category id="1157411" parentId="1157332">Щетка антистатическая</category>
+  <category id="1157333" parentId="1157325">Акустические системы</category>
+  <category id="1157413" parentId="1157333">Активная акустика</category>
+  <category id="1157414" parentId="1157333">Активная напольная акустика</category>
+  <category id="1157415" parentId="1157333">Активная полочная акустика</category>
+  <category id="1157416" parentId="1157333">Активный сабвуфер</category>
+  <category id="1157417" parentId="1157333">Активный центральный громкоговоритель</category>
+  <category id="1157418" parentId="1157333">Акустика для плазмы</category>
+  <category id="1157420" parentId="1157333">Всепогодная акустика</category>
+  <category id="1157421" parentId="1157333">Встраиваемая акустика</category>
+  <category id="1157422" parentId="1157333">Комплект акустики 2.1</category>
+  <category id="1157423" parentId="1157333">Комплект акустики 5.0</category>
+  <category id="1157424" parentId="1157333">Комплект акустики 5.1</category>
+  <category id="1157425" parentId="1157333">Ландшафтная акустика</category>
+  <category id="1157426" parentId="1157333">Мультимедийная акустика</category>
+  <category id="1157427" parentId="1157333">Напольная акустика</category>
+  <category id="1157428" parentId="1157333">Настенная акустика</category>
+  <category id="1157429" parentId="1157333">Настенная панель</category>
+  <category id="1157430" parentId="1157333">Пассивный сабвуфер</category>
+  <category id="1157431" parentId="1157333">Полочная акустика</category>
+  <category id="1157432" parentId="1157333">Саундбар</category>
+  <category id="1157433" parentId="1157333">Специальная тыловая акустика</category>
+  <category id="1157434" parentId="1157333">Супертвитер</category>
+  <category id="1157435" parentId="1157333">Центральный громкоговоритель</category>
+  <category id="1157335" parentId="1157325">Виниловые проигрыватели</category>
+  <category id="1157441" parentId="1157335">Виниловый проигрыватель</category>
+  <category id="1157442" parentId="1157335">Головка звукоснимателя</category>
+  <category id="1157443" parentId="1157335">Игла для звукоснимателя</category>
+  <category id="1157445" parentId="1157335">Тонарм</category>
+  <category id="1157446" parentId="1157335">Фонокорректор</category>
+  <category id="1157337" parentId="1157325">Динамики</category>
+  <category id="1157450" parentId="1157337">Динамик ВЧ</category>
+  <category id="1157451" parentId="1157337">Динамик коаксиальный</category>
+  <category id="1157452" parentId="1157337">Динамик НЧ</category>
+  <category id="1157453" parentId="1157337">Динамик СЧ</category>
+  <category id="1157454" parentId="1157337">Динамик СЧ/НЧ</category>
+  <category id="1157455" parentId="1157337">Динамик широкополосный</category>
+  <category id="1157338" parentId="1157325">Звук для яхт и катеров</category>
+  <category id="1157462" parentId="1157338">CD/MP3 ресивер для яхт и катеров</category>
+  <category id="1157463" parentId="1157338">Антенна</category>
+  <category id="1157464" parentId="1157338">Влагозащитная крышка</category>
+  <category id="1157465" parentId="1157338">Влагозащитный футляр</category>
+  <category id="1157466" parentId="1157338">Влагозащищенный динамик</category>
+  <category id="1157467" parentId="1157338">Влагозащищенный пульт д/у</category>
+  <category id="1157468" parentId="1157338">Коаксиальная акустика для яхт и катеров</category>
+  <category id="1157469" parentId="1157338">Компонентная акустика для яхт и катеров</category>
+  <category id="1157470" parentId="1157338">Корпусная акустика для яхт и катеров</category>
+  <category id="1157471" parentId="1157338">Сабвуфер для яхт и катеров</category>
+  <category id="1157472" parentId="1157338">Усилитель для яхт и катеров</category>
+  <category id="1157339" parentId="1157325">Кабель и разъёмы</category>
+  <category id="1157473" parentId="1157339">Кабель DVI</category>
+  <category id="1157474" parentId="1157339">Кабель Firewire</category>
+  <category id="1157475" parentId="1157339">Кабель HDMI</category>
+  <category id="1157476" parentId="1157339">Кабель HDMI-DVI</category>
+  <category id="1157477" parentId="1157339">Кабель miniJack-2RCA</category>
+  <category id="1157478" parentId="1157339">Кабель miniJack-miniJack</category>
+  <category id="1157480" parentId="1157339">Кабель Scart</category>
+  <category id="1157481" parentId="1157339">Кабель Scart-Scart</category>
+  <category id="1157479" parentId="1157339">Кабель S-Video</category>
+  <category id="1157482" parentId="1157339">Кабель USB</category>
+  <category id="1157483" parentId="1157339">Кабель VGA</category>
+  <category id="1157484" parentId="1157339">Кабель акустический готовый</category>
+  <category id="1157485" parentId="1157339">Кабель акустический на катушках</category>
+  <category id="1157486" parentId="1157339">Кабель акустический профессиональный</category>
+  <category id="1157487" parentId="1157339">Кабель антенный</category>
+  <category id="1157488" parentId="1157339">Кабель видео RGB</category>
+  <category id="1157489" parentId="1157339">Кабель видео композитный</category>
+  <category id="1157490" parentId="1157339">Кабель видео компонентный</category>
+  <category id="1157491" parentId="1157339">Кабель гитарный</category>
+  <category id="1157492" parentId="1157339">Кабель для iPod/iPhone</category>
+  <category id="1157493" parentId="1157339">Кабель для сабвуфера</category>
+  <category id="1157494" parentId="1157339">Кабель для тонарма</category>
+  <category id="1157495" parentId="1157339">Кабель межблочный XLR</category>
+  <category id="1157496" parentId="1157339">Кабель межблочный аналоговый</category>
+  <category id="1157497" parentId="1157339">Кабель межблочный на катушках</category>
+  <category id="1157498" parentId="1157339">Кабель микрофонный</category>
+  <category id="1157499" parentId="1157339">Кабель микрофонный на катушках</category>
+  <category id="1157500" parentId="1157339">Кабель оптический</category>
+  <category id="1157501" parentId="1157339">Кабель сетевой готовый</category>
+  <category id="1157502" parentId="1157339">Кабель сетевой на катушках</category>
+  <category id="1157503" parentId="1157339">Кабель цифровой XLR</category>
+  <category id="1157504" parentId="1157339">Кабель цифровой коаксиальный</category>
+  <category id="1157505" parentId="1157339">Обжимная трубка</category>
+  <category id="1157506" parentId="1157339">Патч-корд</category>
+  <category id="1157507" parentId="1157339">Перемычка для акустики</category>
+  <category id="1157508" parentId="1157339">Переходник</category>
+  <category id="1157509" parentId="1157339">Разъем BNC</category>
+  <category id="1157510" parentId="1157339">Разъем DVI</category>
+  <category id="1157511" parentId="1157339">Разъем Jack</category>
+  <category id="1157512" parentId="1157339">Разъем MiniJack</category>
+  <category id="1157513" parentId="1157339">Разъем Powercon</category>
+  <category id="1157514" parentId="1157339">Разъем RCA</category>
+  <category id="1157516" parentId="1157339">Разъем Scart</category>
+  <category id="1157517" parentId="1157339">Разъем Speakon</category>
+  <category id="1157515" parentId="1157339">Разъем S-Video</category>
+  <category id="1157518" parentId="1157339">Разъем XLR</category>
+  <category id="1157519" parentId="1157339">Разъем акустический типа "банан"</category>
+  <category id="1157520" parentId="1157339">Разъем акустический типа "лопатка"</category>
+  <category id="1157521" parentId="1157339">Разъем антенный</category>
+  <category id="1157522" parentId="1157339">Разъем для головки звукоснимателя</category>
+  <category id="1157523" parentId="1157339">Разъем межкомпонентный</category>
+  <category id="1157524" parentId="1157339">Сетевой разъем</category>
+  <category id="1157525" parentId="1157339">Терминал Jack</category>
+  <category id="1157526" parentId="1157339">Терминал Powercon</category>
+  <category id="1157527" parentId="1157339">Терминал RCA</category>
+  <category id="1157528" parentId="1157339">Терминал Speakon</category>
+  <category id="1157529" parentId="1157339">Терминал XLR</category>
+  <category id="1157530" parentId="1157339">Терминал акустический</category>
+  <category id="1157531" parentId="1157339">Удлинитель</category>
+  <category id="1157346" parentId="1157325">Проекторы</category>
+  <category id="1157588" parentId="1157346">Проектор</category>
+  <category id="1157589" parentId="1157346">Экран для проектора</category>
+  <category id="1157341" parentId="1157325">Профессиональное аудио</category>
+  <category id="1157539" parentId="1157341">Гитарный динамик</category>
+  <category id="1157542" parentId="1157341">Комплект профессиональной акустики</category>
+  <category id="1157543" parentId="1157341">Микрофонный предусилитель</category>
+  <category id="1157545" parentId="1157341">Микшерный пульт</category>
+  <category id="1157544" parentId="1157341">Микшер-усилитель</category>
+  <category id="1157546" parentId="1157341">Мультизонный микшер-усилитель</category>
+  <category id="1157547" parentId="1157341">Мультирум проигрыватель</category>
+  <category id="1157548" parentId="1157341">Настенный громкоговоритель</category>
+  <category id="1157549" parentId="1157341">Панель управления</category>
+  <category id="1157550" parentId="1157341">Профессиональная активная акустика</category>
+  <category id="1157551" parentId="1157341">Профессиональная пассивная акустика</category>
+  <category id="1157552" parentId="1157341">Профессиональный активный сабвуфер</category>
+  <category id="1157553" parentId="1157341">Профессиональный динамик ВЧ</category>
+  <category id="1157554" parentId="1157341">Профессиональный динамик НЧ</category>
+  <category id="1157555" parentId="1157341">Профессиональный динамик СЧ</category>
+  <category id="1157556" parentId="1157341">Профессиональный динамик СЧ/НЧ</category>
+  <category id="1157557" parentId="1157341">Профессиональный коаксиальный динамик</category>
+  <category id="1157558" parentId="1157341">Профессиональный пассивный сабвуфер</category>
+  <category id="1157559" parentId="1157341">Профессиональный сабвуферный динамик</category>
+  <category id="1157560" parentId="1157341">Профессиональный усилитель мощности</category>
+  <category id="1157561" parentId="1157341">Сценический монитор</category>
+  <category id="1157344" parentId="1157325">Сетевые фильтры и разветвители</category>
+  <category id="1157564" parentId="1157344">Распределитель питания</category>
+  <category id="1157565" parentId="1157344">Сетевой фильтр</category>
+  <category id="1157566" parentId="1157344">Стабилизатор напряжения</category>
+  <category id="1157345" parentId="1157325">Стойки и кронштейны</category>
+  <category id="1157567" parentId="1157345">Антивибрационная площадка</category>
+  <category id="1157568" parentId="1157345">Конус</category>
+  <category id="1157570" parentId="1157345">Кронштейн для акустики</category>
+  <category id="1157572" parentId="1157345">Кронштейн для проектора</category>
+  <category id="1157573" parentId="1157345">Кронштейн для телевизора</category>
+  <category id="1157575" parentId="1157345">Настенное крепление для аппаратуры</category>
+  <category id="1157576" parentId="1157345">Опора</category>
+  <category id="1157578" parentId="1157345">Подставка под кабель</category>
+  <category id="1157580" parentId="1157345">Подставка под шип</category>
+  <category id="1157581" parentId="1157345">Стойка акустическая</category>
+  <category id="1157582" parentId="1157345">Стойка аппаратурная</category>
+  <category id="1157585" parentId="1157345">Шип</category>
+  <category id="1159120">Электроника</category>
+  <category id="1157327" parentId="1159120">AV ресиверы и процессоры</category>
+  <category id="1157353" parentId="1157327">AV процессор</category>
+  <category id="1157354" parentId="1157327">AV ресивер</category>
+  <category id="1157328" parentId="1159120">CD проигрыватели</category>
+  <category id="1157355" parentId="1157328">CD проигрыватель</category>
+  <category id="1157356" parentId="1157328">CD рекордер с жестким диском</category>
+  <category id="1157357" parentId="1157328">CD ресивер</category>
+  <category id="1157358" parentId="1157328">CD транспорт</category>
+  <category id="1157359" parentId="1157328">Ламповый CD проигрыватель</category>
+  <category id="1157360" parentId="1157328">Ламповый CD ресивер</category>
+  <category id="1157329" parentId="1159120">DVD и Blu-ray проигрыватели</category>
+  <category id="1157361" parentId="1157329">Blu-ray проигрыватель</category>
+  <category id="1157362" parentId="1157329">Blu-ray ресивер</category>
+  <category id="1157363" parentId="1157329">DVD проигрыватель</category>
+  <category id="1157364" parentId="1157329">DVD ресивер</category>
+  <category id="1157336" parentId="1159120">Внешние ЦАПы</category>
+  <category id="1157340" parentId="1159120">Ламповые усилители</category>
+  <category id="1157532" parentId="1157340">Конструктор лампового усилителя</category>
+  <category id="1157533" parentId="1157340">Ламповый моноусилитель мощности</category>
+  <category id="1157534" parentId="1157340">Ламповый предусилитель</category>
+  <category id="1157535" parentId="1157340">Ламповый стереоусилитель</category>
+  <category id="1157536" parentId="1157340">Ламповый стереоусилитель мощности</category>
+  <category id="1157537" parentId="1157340">Ламповый усилитель для наушников</category>
+  <category id="1157538" parentId="1157340">Ламповый фонокорректор</category>
+  <category id="1157343" parentId="1159120">Сетевые проигрыватели</category>
+  <category id="1157562" parentId="1157343">Медиасервер</category>
+  <category id="1157563" parentId="1157343">Сетевой проигрыватель</category>
+  <category id="1157351" parentId="1159120">Тюнеры</category>
+  <category id="1157352" parentId="1159120">Усилители</category>
+  <category id="1157590" parentId="1157352">AV усилитель</category>
+  <category id="1157592" parentId="1157352">Многоканальный усилитель мощности</category>
+  <category id="1157593" parentId="1157352">Моноусилитель мощности</category>
+  <category id="1157594" parentId="1157352">Предусилитель</category>
+  <category id="1157595" parentId="1157352">Стереоресивер</category>
+  <category id="1157596" parentId="1157352">Стереоусилитель</category>
+  <category id="1157597" parentId="1157352">Усилитель для наушников</category>
+  <category id="1156244">Logitech</category>
+  <category id="1163254">LUXE</category>
+</categories>

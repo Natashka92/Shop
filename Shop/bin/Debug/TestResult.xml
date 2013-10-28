@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\epam\Shop\Shop\bin\Debug\Shop.exe" total="3" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-10-28" time="03:22:22">
+  <environment nunit-version="2.6.2.12296" clr-version="4.0.30319.225" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="NATALI-PC" user="natali" user-domain="natali-PC" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="D:\epam\Shop\Shop\bin\Debug\Shop.exe" executed="True" result="Success" success="True" time="0.234" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Shop" executed="True" result="Success" success="True" time="0.233" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.233" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="BaseDBTest" executed="True" result="Success" success="True" time="0.231" asserts="0">
+                <results>
+                  <test-case name="Shop.Test.BaseDBTest.AddCategory" executed="True" result="Success" success="True" time="0.131" asserts="4" />
+                  <test-case name="Shop.Test.BaseDBTest.AddCurrency" executed="True" result="Success" success="True" time="0.007" asserts="1" />
+                  <test-case name="Shop.Test.BaseDBTest.AddProduct" executed="True" result="Success" success="True" time="0.076" asserts="11" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
